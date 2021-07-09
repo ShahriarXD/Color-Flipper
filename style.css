@@ -1,0 +1,20 @@
+.collapse.navbar-collapse{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  padding: 50px;
+  font-size: xx-large;
+}
+#div{
+  border: 2px solid slateblue;
+  font-weight: bolder;
+  padding: 50px;
+  font-size: xx-large;
+  background-color: rgba(0, 0, 0, 0.466);
+  border-radius: 20px;
+}
+.btn{
+  margin-top: 90px;
+  padding: 28px;
+}
